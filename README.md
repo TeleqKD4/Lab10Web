@@ -1,6 +1,6 @@
 # lab10web
-# Danur Wenda Prasetiyo
-# 312410008
+# Vito Alviano Dwi Santoso 
+# 312410070
 # TI.24.A1
 
 ## 1. Tujuan Praktikum
